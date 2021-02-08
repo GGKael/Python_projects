@@ -6,3 +6,7 @@ All credits to Programming Hero. Check out his channel : https://www.youtube.com
 Please leave your suggestions on my email: viveknsha@gmail.com
 
 Thanks. Happy coding.
+
+## Updates:
+08FEB2021: Refactored the code. Made changes to the try, except blocks. Fixed the Wikipedia block. Added flag to repeat the loop.
+
